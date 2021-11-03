@@ -1,0 +1,20 @@
+C:\Users\ryanc\Documents\Paint calculator\Paint calculator\bin\Debug\Paint calculator.exe.config
+C:\Users\ryanc\Documents\Paint calculator\Paint calculator\bin\Debug\Paint calculator.exe
+C:\Users\ryanc\Documents\Paint calculator\Paint calculator\bin\Debug\Paint calculator.pdb
+C:\Users\ryanc\Documents\Paint calculator\Paint calculator\obj\Debug\Paint calculator.csprojAssemblyReference.cache
+C:\Users\ryanc\Documents\Paint calculator\Paint calculator\obj\Debug\Paint_calculator.Form1.resources
+C:\Users\ryanc\Documents\Paint calculator\Paint calculator\obj\Debug\Paint_calculator.Properties.Resources.resources
+C:\Users\ryanc\Documents\Paint calculator\Paint calculator\obj\Debug\Paint calculator.csproj.GenerateResource.cache
+C:\Users\ryanc\Documents\Paint calculator\Paint calculator\obj\Debug\Paint calculator.csproj.CoreCompileInputs.cache
+C:\Users\ryanc\Documents\Paint calculator\Paint calculator\obj\Debug\Paint calculator.exe
+C:\Users\ryanc\Documents\Paint calculator\Paint calculator\obj\Debug\Paint calculator.pdb
+C:\Users\ryanc\Documents\borwell challenge\Paint calculator\Paint calculator\obj\Debug\Paint calculator.csprojAssemblyReference.cache
+C:\Users\ryanc\Documents\borwell challenge\Paint calculator\Paint calculator\obj\Debug\Paint_calculator.Form1.resources
+C:\Users\ryanc\Documents\borwell challenge\Paint calculator\Paint calculator\obj\Debug\Paint_calculator.Properties.Resources.resources
+C:\Users\ryanc\Documents\borwell challenge\Paint calculator\Paint calculator\obj\Debug\Paint calculator.csproj.GenerateResource.cache
+C:\Users\ryanc\Documents\borwell challenge\Paint calculator\Paint calculator\obj\Debug\Paint calculator.csproj.CoreCompileInputs.cache
+C:\Users\ryanc\Documents\borwell challenge\Paint calculator\Paint calculator\obj\Debug\Paint calculator.exe
+C:\Users\ryanc\Documents\borwell challenge\Paint calculator\Paint calculator\obj\Debug\Paint calculator.pdb
+C:\Users\ryanc\Documents\borwell challenge\Paint calculator\Paint calculator\bin\Debug\Paint calculator.exe.config
+C:\Users\ryanc\Documents\borwell challenge\Paint calculator\Paint calculator\bin\Debug\Paint calculator.exe
+C:\Users\ryanc\Documents\borwell challenge\Paint calculator\Paint calculator\bin\Debug\Paint calculator.pdb
